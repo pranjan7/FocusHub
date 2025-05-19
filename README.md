@@ -15,13 +15,13 @@ It combines a 25-minute timer, a task tracker, and a note-taking pad — all in 
 
 ---
 
-## 🖥 Live Demo
+##  Live Demo
 
 👉 [View Project Online](https://your-username.github.io/focushub) *(Replace with your deployed link)*
 
 ---
 
-## 📸 Screenshots
+##  Screenshots
 
 | Timer | Task List | Notes |
 |-------|-----------|-------|
